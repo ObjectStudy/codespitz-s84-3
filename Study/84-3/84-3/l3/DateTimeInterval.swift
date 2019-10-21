@@ -1,0 +1,13 @@
+//
+//  DateTimeInterval.swift
+//  84-3
+//
+//  Created by tskim on 21/10/2019.
+//  Copyright © 2019 assin. All rights reserved.
+//
+
+import Foundation
+
+struct DateTimeInterval {
+
+}
